@@ -7,6 +7,9 @@ In this version after you select port and baudrate you can show Acceleration rat
 </br>
 ## All requirements for python environment are stored in: </br>
 > requirements.txt
+
+###### If you have problem with serial module replace __init__.py file in repository with orginal one in bellow directory:</br>
+> 'environment directory'/lib/python(version)/site-packages/serial/
 </br>
 
 #### I'm trying to improve it for near future and you can help me in it.</br>
