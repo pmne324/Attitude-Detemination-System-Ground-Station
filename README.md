@@ -8,5 +8,7 @@ In this version after you select port and baudrate you can show Acceleration rat
 ## All requirements for python environment are stored in: </br>
 > requirements.txt
 </br>
+
 #### I'm trying to improve it for near future and you can help me in it.</br>
+
 ##### Powerd by Porya M. Nilaore (pmne324)
